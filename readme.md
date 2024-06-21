@@ -14,7 +14,7 @@ Welcome to the GitHub repository for  tutorial on building a natural language SQ
 
 The chatbot works by taking a user's natural language query, converting it into a SQL query using Misteral, executing the query on a SQL database, and then presenting the results back to the user in natural language. This process involves several steps of data processing and interaction with the Ollama's API and a SQL database, all seamlessly integrated into a Streamlit application.
 
-For more clearity see following image --![Alt Text](./docs/mysql-chains.png)
+ ![Alt Text](./docs/mysql-chains.png)
 
 
 Happy Coding! 🚀👨‍💻🤖
