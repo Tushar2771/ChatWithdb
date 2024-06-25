@@ -1,4 +1,4 @@
-# MySQL Python Chatbot with GPT-4 and Mistral AI
+# MySQL Python Chatbot with Mistral AI
 
 Welcome to the GitHub repository for  tutorial on building a natural language SQL chatbot using misteral! This project guides you through the development of a chatbot that can interpret natural language queries, generate SQL queries, and fetch results from a SQL database, all in an intuitive and user-friendly way. It utilizes the power of misteral model, integrated with a Streamlit GUI for an enhanced interaction experience.
 
